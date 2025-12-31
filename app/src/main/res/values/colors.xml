@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- رنگ اصلی (Primary) - آبی مدرن -->
+    <color name="md_theme_light_primary">#2196F3</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#BBDEFB</color>
+    <color name="md_theme_light_onPrimaryContainer">#1976D2</color>
+
+    <!-- رنگ ثانویه (Secondary) - فیروزه‌ای -->
+    <color name="md_theme_light_secondary">#00BCD4</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+
+    <!-- پس‌زمینه -->
+    <color name="md_theme_light_background">#F8FDFF</color>
+    <color name="md_theme_light_surface">#FFFFFF</color>
+    <color name="md_theme_light_onBackground">#000000</color>
+
+    <!-- حالت تاریک (Dark Mode) - خیلی مهم برای مدرن بودن -->
+    <color name="md_theme_dark_primary">#64B5F6</color>
+    <color name="md_theme_dark_onPrimary">#000000</color>
+    <color name="md_theme_dark_primaryContainer">#1976D2</color>
+    <color name="md_theme_dark_onPrimaryContainer">#BBDEFB</color>
+
+    <color name="md_theme_dark_secondary">#00E5FF</color>
+    <color name="md_theme_dark_onSecondary">#000000</color>
+
+    <color name="md_theme_dark_background">#121212</color>
+    <color name="md_theme_dark_surface">#1E1E1E</color>
+    <color name="md_theme_dark_onBackground">#FFFFFF</color>
+</resources>
